@@ -1,0 +1,7 @@
+.direnv
+.west
+build
+modules
+result
+zephyr
+zmk
